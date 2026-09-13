@@ -233,50 +233,132 @@ A complete business analysis and operational analytics solution focused on ident
 
 ---
 
-# 🔄 Analytics & Data Engineering Workflow
+## 🔄 Analytics & Data Engineering Workflow
 
 <div align="center">
 
-```text
-                         RAW DATA
-                            │
-                            ▼
-                    DATA EXTRACTION
-                            │
-                            ▼
-                      SQL / PYTHON
-                            │
-                            ▼
-                     DATA CLEANING
-                            │
-                            ▼
-                       ETL / ELT
-                            │
-                            ▼
-                     DATA MODELLING
-                            │
-                  ┌─────────┴─────────┐
-                  ▼                   ▼
-              ANALYTICS         DATA ENGINEERING
-                  │                   │
-                  ▼                   ▼
-              POWER BI          DATA WAREHOUSE
-                  │                   │
-                  └─────────┬─────────┘
-                            ▼
-                   BUSINESS INSIGHTS
-                            │
-                            ▼
-                   BUSINESS DECISIONS
+| STEP | PROCESS |
+|:---:|:---|
+| 01 | 📥 **RAW DATA** |
+| ↓ | |
+| 02 | 🔎 **DATA EXTRACTION** |
+| ↓ | |
+| 03 | 🐍 **SQL / PYTHON** |
+| ↓ | |
+| 04 | 🧹 **DATA CLEANING** |
+| ↓ | |
+| 05 | ⚙️ **ETL / ELT** |
+| ↓ | |
+| 06 | 🧩 **DATA MODELLING** |
+| ↓ | |
+| 07 | 📊 **ANALYTICS** &nbsp;&nbsp; / &nbsp;&nbsp; 🏗️ **DATA ENGINEERING** |
+| ↓ | |
+| 08 | 📈 **POWER BI** &nbsp;&nbsp; / &nbsp;&nbsp; 🗄️ **DATA WAREHOUSE** |
+| ↓ | |
+| 09 | 💡 **BUSINESS INSIGHTS** |
+| ↓ | |
+| 10 | 🎯 **BUSINESS DECISIONS** |
 
 </div>
 
 ---
 
-## ⭐ Thanks for visiting my profile
+## 🧠 My Data Approach
+
+> **Raw Data → Clean Data → Structured Data → Analytics → Insights → Decisions**
+
+I focus on building solutions where data is not just visualized, but transformed into reliable and actionable business intelligence.
+
+---
+
+## 🎯 Current Focus
+
+- 📊 Data Analytics
+- 🗄️ Data Engineering
+- 🧮 Advanced SQL & PostgreSQL
+- 🐍 Python for Data
+- 📈 Power BI & DAX
+- ⚙️ ETL / ELT Pipelines
+- 🏗️ Data Warehousing
+- 🧩 Data Modelling
+
+---
+
+## 📚 Currently Learning
+
+- Advanced SQL
+- Python Data Engineering
+- ETL Pipeline Design
+- Data Warehousing
+- Apache Spark
+- Cloud Data Engineering
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=singhdivyansh1750&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhdivyansh1750&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=singhdivyansh1750&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+---
+
+## 🎯 2026 Goals
+
+- 🚀 Build production-style analytics projects
+- 🧮 Master advanced SQL and PostgreSQL
+- 🐍 Strengthen Python data engineering workflows
+- ⚙️ Build reliable ETL / ELT pipelines
+- 🏗️ Design scalable analytical data models
+- 📊 Create professional Power BI dashboards
+- ☁️ Explore modern cloud data engineering
+- 💼 Solve real-world business problems with data
+
+---
+
+## 🤝 What I'm Looking For
+
+I'm open to:
+
+- Data Analytics opportunities
+- Data Engineering opportunities
+- Business Intelligence projects
+- Data-driven collaborations
+- Open-source contributions
+- Learning and building with other developers
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+📧 **Email:** [singhdivyansh1750@gmail.com](mailto:singhdivyansh1750@gmail.com)
+
+💻 **GitHub:** [github.com/singhdivyansh1750](https://github.com/singhdivyansh1750)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**Turning Data Into Insights • Building Data Solutions • Driving Better Decisions**
 
 </div>
