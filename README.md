@@ -1,79 +1,146 @@
 <div align="center">
 
-<!-- Animated Header -->
+# 👋 Hi, I'm Divyansh Singh
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Divyansh%20Singh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+### 📊 Data Analyst | ⚙️ Data Engineer | 📈 Business Intelligence
 
-<h2>Data Analyst | Data Engineer</h2>
+Transforming **raw data into insights, analytics, and scalable data solutions.**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2C5364&center=true&vCenter=true&width=750&lines=Transforming+Data+into+Actionable+Insights;Building+Scalable+Analytics+Solutions;SQL+%7C+Python+%7C+Power+BI+%7C+PostgreSQL;Data+Analytics+%7C+Data+Engineering" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=singhdivyansh1750&label=Profile%20Views&color=2C5364&style=flat-square" />
+<p>
+  <a href="https://github.com/singhdivyansh1750">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:singhdivyansh1750@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 I am an aspiring **Data Analyst and Data Engineer** focused on transforming raw data into meaningful insights and building scalable data solutions.
 
-My interests span across:
+I enjoy working across the complete data lifecycle — from **data extraction and SQL analysis to data modelling, engineering, visualization, and business decision-making.**
 
-- 📊 Data Analytics
-- ⚙️ Data Engineering
-- 📈 Business Intelligence
-- 🗄️ SQL & PostgreSQL
-- 🐍 Python
-- 🔄 ETL / ELT Pipelines
-- 🏗️ Data Modelling & Data Warehousing
-- 💡 Data-driven Decision Making
+### 🎯 What I Work With
 
-I enjoy working across the complete data lifecycle:
+| 📊 Data Analytics | ⚙️ Data Engineering | 💼 Business Intelligence |
+|---|---|---|
+| Exploratory Data Analysis | ETL / ELT Pipelines | Power BI |
+| Statistical Analysis | Data Pipelines | DAX |
+| Customer Analytics | Data Warehousing | Power Query |
+| Predictive Analytics | Data Modelling | Executive Reporting |
+| KPI Analysis | Star Schema | Business Analysis |
 
-<div align="center">
+---
 
-**Raw Data → SQL → ETL → Data Modelling → Analysis → Visualization → Business Decisions**
+# ⚡ What I Build
 
-</div>
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+## 📊 Analytics
+
+Business dashboards, KPI reporting, customer analytics and data-driven insights.
+
+</td>
+
+<td width="33%" align="center">
+
+## ⚙️ Data Engineering
+
+ETL / ELT pipelines, data cleaning, modelling, warehousing and analytical data layers.
+
+</td>
+
+<td width="33%" align="center">
+
+## 💼 Business Intelligence
+
+Power BI dashboards, DAX analysis, operational reporting and executive decision systems.
+
+</td>
+
+</tr>
+</table>
+
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+## 🐍 Python for Data
+
+EDA • Pandas • NumPy • Scikit-learn • Feature Engineering • Predictive Analytics
+
+</td>
+
+<td width="50%" align="center">
+
+## 🗄️ SQL & Databases
+
+SQL • PostgreSQL • MySQL • Analytical Queries • Data Modelling • Star Schema
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 # 🛠️ Technical Skills
 
-<div align="center">
+## 🐍 Programming & Databases
 
-### Programming & Databases
+<p>
+<img src="https://skillicons.dev/icons?i=python,postgres,mysql" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,postgresql,mysql" />
+**Python • SQL • PostgreSQL • MySQL**
 
-<br><br>
+---
 
-### Data Analytics & Business Intelligence
+## 📊 Data Analytics & Business Intelligence
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/DAX-Data%20Analysis-1F6FEB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Power%20Query-Transformation-742774?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/DAX-555555?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data%20Analysis-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+</p>
 
-<br><br>
+**Data Analysis • Dashboard Development • KPI Reporting • Business Intelligence • Data Visualization**
 
-### Data Engineering
+---
 
-<img src="https://img.shields.io/badge/ETL-Data%20Pipelines-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ELT-Modern%20Data%20Stack-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Star%20Schema-Data%20Modeling-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Warehouse-Architecture-purple?style=for-the-badge"/>
+## ⚙️ Data Engineering
 
-<br><br>
+<p>
+<img src="https://img.shields.io/badge/ETL-555555?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data%20Pipelines-EF6C35?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ELT-555555?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Modern%20Data%20Stack-1479C9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Star%20Schema-555555?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data%20Modelling-65B32E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data%20Warehouse-555555?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Architecture-7B1FA2?style=for-the-badge" />
+</p>
 
-### Development Tools
+---
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
+## 🔧 Development Tools
 
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+**Git • GitHub • Visual Studio Code**
 
 ---
 
@@ -83,25 +150,26 @@ I enjoy working across the complete data lifecycle:
 
 **Power BI • DAX • Power Query • PostgreSQL • SQL • Star Schema**
 
-An enterprise analytics solution designed to analyse **multi-channel sales, customer behaviour, product performance, profitability, and executive KPIs**.
+An enterprise analytics solution designed to analyse **multi-channel sales, customer behaviour, product performance, profitability and executive KPIs.**
 
 ### 🔍 Key Capabilities
 
-- Executive revenue & KPI reporting
-- Revenue growth and profitability analysis
-- Customer Lifetime Value (CLV)
-- Customer retention analysis
-- MTD / QTD / YTD performance
-- Variance-to-target analysis
-- Dynamic customer segmentation
-- What-If analysis
-- Drill-through reporting
-- PostgreSQL analytical data layer
-- Star-schema data modelling
+- 📈 Executive revenue & KPI reporting
+- 💰 Revenue growth and profitability analysis
+- 👥 Customer Lifetime Value (CLV)
+- 🔄 Customer retention analysis
+- 📅 MTD / QTD / YTD performance
+- 🎯 Variance-to-target analysis
+- 🧩 Dynamic customer segmentation
+- 🔮 What-If analysis
+- 🔎 Drill-through reporting
+- 🗄️ PostgreSQL analytical data layer
+- 🏗️ Star-schema data modelling
 
-**Focus:** Business Intelligence • Data Modelling • SQL • DAX • Executive Analytics
+**Focus:**  
+`Business Intelligence` • `Data Modelling` • `SQL` • `DAX` • `Executive Analytics`
 
-🔗 **Repository:** Coming Soon
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/singhdivyansh1750/Enterprise-revenue-intelligence-platform)
 
 ---
 
@@ -109,28 +177,31 @@ An enterprise analytics solution designed to analyse **multi-channel sales, cust
 
 **Python • Pandas • NumPy • Scikit-learn • SciPy • PostgreSQL • SQL**
 
-An end-to-end customer analytics pipeline focused on **customer behaviour, segmentation, churn prediction, retention, CLV, and revenue-risk analysis**.
+An end-to-end customer analytics pipeline focused on **customer behaviour, segmentation, churn prediction, retention, CLV and revenue-risk analysis.**
 
 ### 🔍 Key Capabilities
 
-- Exploratory Data Analysis
-- RFM customer segmentation
-- Cohort analysis
-- Retention analysis
-- Customer Lifetime Value
-- Behavioural feature engineering
-- Churn classification
-- Revenue-risk analysis
-- Retention forecasting
-- Model evaluation using:
-  - Precision
-  - Recall
-  - F1-Score
-  - ROC-AUC
+- 🔎 Exploratory Data Analysis
+- 👥 RFM customer segmentation
+- 📊 Cohort analysis
+- 🔄 Retention analysis
+- 💰 Customer Lifetime Value
+- 🧠 Behavioural feature engineering
+- ⚠️ Churn classification
+- 📉 Revenue-risk analysis
+- 🔮 Retention forecasting
 
-**Focus:** Customer Analytics • Python • SQL • Machine Learning • Predictive Analytics
+### 🤖 Model Evaluation
 
-🔗 **Repository:** Coming Soon
+- Precision
+- Recall
+- F1-Score
+- ROC-AUC
+
+**Focus:**  
+`Customer Analytics` • `Python` • `SQL` • `Machine Learning` • `Predictive Analytics`
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/singhdivyansh1750/customer-intelligence-churn-forecasting)
 
 ---
 
@@ -138,26 +209,27 @@ An end-to-end customer analytics pipeline focused on **customer behaviour, segme
 
 **Business Analysis • Advanced Excel • SQL • Power BI • Power Query**
 
-A complete business analysis and operational analytics solution focused on identifying **process bottlenecks, SLA breaches, conversion drop-offs, cost drivers, and performance gaps**.
+A complete business analysis and operational analytics solution focused on identifying **process bottlenecks, SLA breaches, conversion drop-offs, cost drivers and performance gaps.**
 
 ### 🔍 Key Capabilities
 
-- Stakeholder analysis
-- AS-IS / TO-BE process mapping
-- Business Requirements Document
-- Functional requirements
-- User stories
-- Prioritized backlog
-- SQL-based operational analysis
-- KPI reporting
-- SLA monitoring
-- Exception analysis
-- Scenario modelling
-- Power BI & Excel reporting
+- 👥 Stakeholder analysis
+- 🔄 AS-IS / TO-BE process mapping
+- 📄 Business Requirements Document
+- 📋 Functional requirements
+- 👤 User stories
+- 🎯 Prioritized backlog
+- 🗄️ SQL-based operational analysis
+- 📊 KPI reporting
+- ⏱️ SLA monitoring
+- 🚨 Exception analysis
+- 🔮 Scenario modelling
+- 📈 Power BI & Excel reporting
 
-**Focus:** Business Analysis • Operational Analytics • Process Improvement • BI
+**Focus:**  
+`Business Analysis` • `Operational Analytics` • `Process Improvement` • `BI`
 
-🔗 **Repository:** Coming Soon
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/singhdivyansh1750/digital-transformation-operational-analytics)
 
 ---
 
@@ -166,129 +238,38 @@ A complete business analysis and operational analytics solution focused on ident
 <div align="center">
 
 ```text
-                    RAW DATA
-                       │
-                       ▼
-                DATA EXTRACTION
-                       │
-                       ▼
-                 SQL / PYTHON
-                       │
-                       ▼
-                 DATA CLEANING
-                       │
-                       ▼
-                   ETL / ELT
-                       │
-                       ▼
-                DATA MODELLING
-                       │
-             ┌─────────┴─────────┐
-             ▼                   ▼
-         ANALYTICS          DATA ENGINEERING
-             │                   │
-             ▼                   ▼
-         POWER BI          DATA WAREHOUSE
-             │                   │
-             └─────────┬─────────┘
-                       ▼
-              BUSINESS INSIGHTS
-```
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/singhdivyansh1750/singhdivyansh1750/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-
-</div>
+                         RAW DATA
+                            │
+                            ▼
+                    DATA EXTRACTION
+                            │
+                            ▼
+                      SQL / PYTHON
+                            │
+                            ▼
+                     DATA CLEANING
+                            │
+                            ▼
+                       ETL / ELT
+                            │
+                            ▼
+                     DATA MODELLING
+                            │
+                  ┌─────────┴─────────┐
+                  ▼                   ▼
+              ANALYTICS         DATA ENGINEERING
+                  │                   │
+                  ▼                   ▼
+              POWER BI          DATA WAREHOUSE
+                  │                   │
+                  └─────────┬─────────┘
+                            ▼
+                   BUSINESS INSIGHTS
+                            │
+                            ▼
+                   BUSINESS DECISIONS
 
 ---
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=singhdivyansh1750&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhdivyansh1750&layout=compact&hide_border=true" height="180"/>
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=singhdivyansh1750&hide_border=true" />
-
-</div>
-
----
-
-# 🎯 Current Focus
-
-<div align="center">
-
-### 📊 Data Analytics
-
-### ⚙️ Data Engineering
-
-### 🗄️ Advanced SQL & PostgreSQL
-
-### 🐍 Python for Data
-
-### 📈 Power BI & DAX
-
-### 🔄 ETL / ELT Pipelines
-
-### 🏗️ Data Warehousing & Data Modelling
-
-</div>
-
----
-
-# 📚 Currently Learning
-
-<div align="center">
-
-`Advanced SQL` • `Python` • `ETL Pipelines` • `Data Warehousing` • `Apache Spark` • `Cloud Data Engineering`
-
-</div>
-
----
-
-# 🎯 2026 Goals
-
-- Build production-style analytics projects
-- Strengthen advanced SQL skills
-- Develop Python data engineering workflows
-- Build reliable ETL / ELT pipelines
-- Design analytical data models
-- Create impactful Power BI dashboards
-- Learn modern data engineering technologies
-- Solve real-world business problems using data
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/singhdivyansh1750">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-**Open to learning, collaboration, and opportunities in Data Analytics & Data Engineering.**
-
-<br><br>
 
 ⭐ **Thanks for visiting my profile!**
 
