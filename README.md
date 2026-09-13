@@ -273,10 +273,7 @@ A complete business analysis and operational analytics solution focused on ident
 
 ---
 
-**# ⭐ **Thanks for visiting my profile!**
-**
-
-<br>
+## ⭐ Thanks for visiting my profile
 
 <div align="center">
 
