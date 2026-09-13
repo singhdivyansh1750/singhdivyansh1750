@@ -269,11 +269,12 @@ A complete business analysis and operational analytics solution focused on ident
                             ▼
                    BUSINESS DECISIONS
 
+</div>
+
 ---
 
-⭐ **Thanks for visiting my profile!**
-
-</div>
+**# ⭐ **Thanks for visiting my profile!**
+**
 
 <br>
 
